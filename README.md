@@ -6,23 +6,31 @@ A simple and elegant Django-powered Notes App that lets users register, log in, 
 
 ## 🔥 Features
 
--User Registration & Login
-Users can sign up and log in securely.
-Built-in Django authentication system.
--Logout Functionality
-Users can sign out from their session safely.
--Create, View, Edit, and Delete Notes (CRUD)
-Users can create new notes, view them, update content, or delete them.
--Secure, User-Specific Notes
-Notes are private; each user can only see their own notes.
--Search Notes by Title
-Search bar to find notes based on title keywords.
--Pin/Unpin Notes
-Highlight important notes by pinning them to the top.
--Dark/Light Mode Toggle
-Switch between light and dark modes for better user experience.
--Responsive UI with Bootstrap
-Fully styled using Bootstrap for mobile-friendly and clean design.
+- **User Registration & Login**  
+  - Users can sign up and log in securely.  
+  - Built-in Django authentication system.
+
+- **Logout Functionality**  
+  - Users can sign out from their session safely.
+
+- **Create, View, Edit, and Delete Notes (CRUD)**  
+  - Users can create new notes, view them, update content, or delete them.
+
+- **Secure, User-Specific Notes**  
+  - Notes are private; each user can only see their own notes.
+
+- **Search Notes by Title**  
+  - Search bar to find notes based on title keywords.
+
+- **Pin/Unpin Notes**  
+  - Highlight important notes by pinning them to the top.
+
+- **Dark/Light Mode Toggle**  
+  - Switch between light and dark modes for better user experience.
+
+- **Responsive UI with Bootstrap**  
+  - Fully styled using Bootstrap for mobile-friendly and clean design.
+
 
 ---
 
