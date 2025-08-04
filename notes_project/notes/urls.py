@@ -23,5 +23,8 @@ urlpatterns = [
     path('login/', views.login_view, name='login'),
     path('logout/', views.logout_view, name='logout'),
     path('delete/<int:note_id>/', views.delete_note, name='delete_note'),
+    path('toggle_pin/<int:note_id>/', views.toggle_pin, name='toggle_pin'),
 ]
+
+
 
